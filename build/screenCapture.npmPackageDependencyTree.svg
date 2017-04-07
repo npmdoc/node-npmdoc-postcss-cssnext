@@ -1,0 +1,89 @@
+<svg height="1374" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1374" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">19 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ postcss-cssnext@2.10.0 </tspan>
+<tspan x="10" y="90">  ├─┬ autoprefixer@6.7.7 </tspan>
+<tspan x="10" y="106">  │ ├─┬ browserslist@1.7.7 </tspan>
+<tspan x="10" y="122">  │ │ └── electron-to-chromium@1.3.2 </tspan>
+<tspan x="10" y="138">  │ ├── caniuse-db@1.0.30000649 </tspan>
+<tspan x="10" y="154">  │ ├── normalize-range@0.1.2 </tspan>
+<tspan x="10" y="170">  │ ├── num2fraction@1.2.2 </tspan>
+<tspan x="10" y="186">  │ └── postcss-value-parser@3.3.0 </tspan>
+<tspan x="10" y="202">  ├─┬ caniuse-api@1.6.1 </tspan>
+<tspan x="10" y="218">  │ ├── lodash.memoize@4.1.2 </tspan>
+<tspan x="10" y="234">  │ └── lodash.uniq@4.5.0 </tspan>
+<tspan x="10" y="250">  ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="266">  │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="282">  │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="298">  │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="314">  │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="330">  │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="346">  │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="362">  ├─┬ pixrem@3.0.2 </tspan>
+<tspan x="10" y="378">  │ └─┬ reduce-css-calc@1.3.0 </tspan>
+<tspan x="10" y="394">  │   └── math-expression-evaluator@1.2.16 </tspan>
+<tspan x="10" y="410">  ├─┬ pleeease-filters@3.0.1 </tspan>
+<tspan x="10" y="426">  │ └── onecolor@2.4.2 </tspan>
+<tspan x="10" y="442">  ├─┬ postcss@5.2.16 </tspan>
+<tspan x="10" y="458">  │ ├── js-base64@2.1.9 </tspan>
+<tspan x="10" y="474">  │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="490">  │ └─┬ supports-color@3.2.3 </tspan>
+<tspan x="10" y="506">  │   └── has-flag@1.0.0 </tspan>
+<tspan x="10" y="522">  ├─┬ postcss-apply@0.3.0 </tspan>
+<tspan x="10" y="538">  │ └── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="554">  ├─┬ postcss-attribute-case-insensitive@1.0.1 </tspan>
+<tspan x="10" y="570">  │ └─┬ postcss-selector-parser@2.2.3 </tspan>
+<tspan x="10" y="586">  │   ├── flatten@1.0.2 </tspan>
+<tspan x="10" y="602">  │   ├── indexes-of@1.0.1 </tspan>
+<tspan x="10" y="618">  │   └── uniq@1.0.1 </tspan>
+<tspan x="10" y="634">  ├─┬ postcss-calc@5.3.1 </tspan>
+<tspan x="10" y="650">  │ └── postcss-message-helpers@2.0.0 </tspan>
+<tspan x="10" y="666">  ├─┬ postcss-color-function@2.0.1 </tspan>
+<tspan x="10" y="682">  │ └─┬ css-color-function@1.3.0 </tspan>
+<tspan x="10" y="698">  │   ├── balanced-match@0.1.0 </tspan>
+<tspan x="10" y="714">  │   ├── debug@0.7.4 </tspan>
+<tspan x="10" y="730">  │   └── rgb@0.1.0 </tspan>
+<tspan x="10" y="746">  ├─┬ postcss-color-gray@3.0.1 </tspan>
+<tspan x="10" y="762">  │ ├─┬ color@0.11.4 </tspan>
+<tspan x="10" y="778">  │ │ ├── clone@1.0.2 </tspan>
+<tspan x="10" y="794">  │ │ ├─┬ color-convert@1.9.0 </tspan>
+<tspan x="10" y="810">  │ │ │ └── color-name@1.1.2 </tspan>
+<tspan x="10" y="826">  │ │ └── color-string@0.3.0 </tspan>
+<tspan x="10" y="842">  │ └── reduce-function-call@1.0.2 </tspan>
+<tspan x="10" y="858">  ├─┬ postcss-color-hex-alpha@2.0.0 </tspan>
+<tspan x="10" y="874">  │ └─┬ color@0.10.1 </tspan>
+<tspan x="10" y="890">  │   └── color-convert@0.5.3 </tspan>
+<tspan x="10" y="906">  ├─┬ postcss-color-hsl@1.0.5 </tspan>
+<tspan x="10" y="922">  │ └─┬ units-css@0.4.0 </tspan>
+<tspan x="10" y="938">  │   ├── isnumeric@0.2.0 </tspan>
+<tspan x="10" y="954">  │   └── viewport-dimensions@0.2.0 </tspan>
+<tspan x="10" y="970">  ├── postcss-color-hwb@2.0.1 </tspan>
+<tspan x="10" y="986">  ├── postcss-color-rebeccapurple@2.0.1 </tspan>
+<tspan x="10" y="1002">  ├── postcss-color-rgb@1.1.4 </tspan>
+<tspan x="10" y="1018">  ├─┬ postcss-color-rgba-fallback@2.2.0 </tspan>
+<tspan x="10" y="1034">  │ └── rgb-hex@1.0.0 </tspan>
+<tspan x="10" y="1050">  ├── postcss-custom-media@5.0.1 </tspan>
+<tspan x="10" y="1066">  ├── postcss-custom-properties@5.0.2 </tspan>
+<tspan x="10" y="1082">  ├─┬ postcss-custom-selectors@3.0.0 </tspan>
+<tspan x="10" y="1098">  │ └── balanced-match@0.2.1 </tspan>
+<tspan x="10" y="1114">  ├─┬ postcss-font-family-system-ui@1.0.2 </tspan>
+<tspan x="10" y="1130">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="1146">  ├── postcss-font-variant@2.0.1 </tspan>
+<tspan x="10" y="1162">  ├─┬ postcss-initial@1.5.3 </tspan>
+<tspan x="10" y="1178">  │ └─┬ lodash.template@4.4.0 </tspan>
+<tspan x="10" y="1194">  │   ├── lodash._reinterpolate@3.0.0 </tspan>
+<tspan x="10" y="1210">  │   └── lodash.templatesettings@4.1.0 </tspan>
+<tspan x="10" y="1226">  ├── postcss-media-minmax@2.1.2 </tspan>
+<tspan x="10" y="1242">  ├── postcss-nesting@2.3.1 </tspan>
+<tspan x="10" y="1258">  ├─┬ postcss-pseudo-class-any-link@1.0.0 </tspan>
+<tspan x="10" y="1274">  │ └── postcss-selector-parser@1.3.3 </tspan>
+<tspan x="10" y="1290">  ├── postcss-pseudoelements@3.0.0 </tspan>
+<tspan x="10" y="1306">  ├── postcss-replace-overflow-wrap@1.0.0 </tspan>
+<tspan x="10" y="1322">  ├── postcss-selector-matches@2.0.5 </tspan>
+<tspan x="10" y="1338">  └─┬ postcss-selector-not@2.0.0 </tspan>
+<tspan x="10" y="1354">    └── balanced-match@0.2.1</tspan>
+</text>
+</svg>
